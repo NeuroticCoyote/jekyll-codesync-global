@@ -2,7 +2,7 @@
 conference_brand: _conference_brands/code-bean-sto.md
 title: THE HILTERN BERLIN
 past: false
-bg_image: "/uploads/conference.jpeg"
+bg_image: "/uploads/conference.png"
 logo_img: "/uploads/aed29706231a343796d1d53a8b64659f728e7426.png"
 conference_location: Virtual
 primary: "#B51A00"
