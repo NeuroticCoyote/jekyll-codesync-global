@@ -11,7 +11,7 @@ conference_init_date: 2001-09-10T06:00:00.000+00:00
 conference_dates: 10-11 SEPTEMBER 2020
 head_title: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
 overview_heading: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
-number_of_days: 2
+number_of_days: "2"
 number_of_themes: "7"
 number_of_speakers: "50"
 number_of_attendees: "300"
@@ -74,7 +74,6 @@ repeatable_group: []
 conference_health_advice: false
 conference_venue: false
 conference_past_conferences: false
-menu: Menu
 
 ---
 
