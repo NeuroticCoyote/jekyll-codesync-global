@@ -138,3 +138,5 @@ map-lng: xxxxxx
 # incremental: true
 
 
+
+theme: jekyll-theme-cayman
