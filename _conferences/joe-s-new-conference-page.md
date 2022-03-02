@@ -7,7 +7,7 @@ menu: |-
   * [Media](#media)
   * [Training](#training)
   * [Venue](#venue)
-conference_brand: _conference_brands/code-beam-v.md
+conference_brand: _conference_brands/joes-conference-brand.md
 conference_overview: true
 number_of_days: 0
 conference_themes: true
