@@ -77,6 +77,5 @@ conference_past_conferences: false
 menu: menu
 
 ---
-#### 
 
 ## The European Conference for Erlang and Elixir developers.
