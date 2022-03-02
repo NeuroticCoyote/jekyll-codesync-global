@@ -76,5 +76,6 @@ conference_venue: false
 conference_past_conferences: false
 
 ---
+#### 
 
-Code BEAM V will be the third virtual conference from our team. We've developed a format to ensure our virtual events offer the knowledge sharing, inspiration, networking and community experience you'd expect from any of our events.
+## The European Conference for Erlang and Elixir developers.
