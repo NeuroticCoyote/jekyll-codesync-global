@@ -1,17 +1,17 @@
 ---
 conference_brand: _conference_brands/code-bean-sto.md
-title: The Hiltern Berlin
+title: THE HILTERN BERLIN
 past: false
-bg_image: "/uploads/conference.png"
+bg_image: "/uploads/16d70351e4ef837c6fbab1a10e1576a862092484.jpeg"
 logo_img: "/uploads/aed29706231a343796d1d53a8b64659f728e7426.png"
 conference_location: Virtual
 primary: "#B51A00"
 secondary: "#FF40FF"
 conference_init_date: 2001-09-10T06:00:00.000+00:00
-conference_dates: 7-8 SEPTEMBER 2023
+conference_dates: 10-11 SEPTEMBER 2020
 head_title: The Hilton Berlin September 7-8 2023
 overview_heading: The Hilton Berlin September 7-8 2023
-number_of_days: 2
+number_of_days: "2"
 number_of_themes: "7"
 number_of_speakers: "50"
 number_of_attendees: "300"
@@ -74,8 +74,8 @@ repeatable_group: []
 conference_health_advice: false
 conference_venue: false
 conference_past_conferences: false
-menu: menu
 
 ---
+#### 
 
 ## The European Conference for Erlang and Elixir developers.
