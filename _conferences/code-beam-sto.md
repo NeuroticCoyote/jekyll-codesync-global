@@ -11,7 +11,7 @@ conference_init_date: 2001-09-10T06:00:00.000+00:00
 conference_dates: 10-11 SEPTEMBER 2020
 head_title: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
 overview_heading: DISCOVER THE FUTURE OF THE ERLANG ECOSYSTEM
-number_of_days: "2"
+number_of_days: 2
 number_of_themes: "7"
 number_of_speakers: "50"
 number_of_attendees: "300"
@@ -74,11 +74,8 @@ repeatable_group: []
 conference_health_advice: false
 conference_venue: false
 conference_past_conferences: false
+menu: Menu
+
 ---
-For the health and safety of speakers, attendees and the wider community Code BEAM STO is going VIRTUAL.
 
 Code BEAM V will be the third virtual conference from our team. We've developed a format to ensure our virtual events offer the knowledge sharing, inspiration, networking and community experience you'd expect from any of our events.
-
-Enjoy two days of real-world, practical applications of Erlang, Elixir and the BEAM - all within the context of high-performance and massively-scalable distributed systems.
-
-More information will be available soon. Let's stay connected!
