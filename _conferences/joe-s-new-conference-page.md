@@ -86,7 +86,7 @@ primary: ''
 secondary: ''
 conference_init_date: 
 conference_dates: ''
-head_title: ''
+head_title: JOES CONFERENCE BRAND
 overview_heading: ''
 number_of_themes: ''
 number_of_speakers: ''
