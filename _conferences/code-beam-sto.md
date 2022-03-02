@@ -7,7 +7,7 @@ logo_img: "/uploads/aed29706231a343796d1d53a8b64659f728e7426.png"
 conference_location: Virtual
 primary: "#B51A00"
 secondary: "#FF40FF"
-conference_init_date: 2001-09-10T06:00:00.000+00:00
+conference_init_date: 2023-03-07T07:00:00Z
 conference_dates: 7-8 SEPTEMBER 2023
 head_title: The Hilton Berlin September 7-8 2023
 overview_heading: The Hilton Berlin September 7-8 2023
