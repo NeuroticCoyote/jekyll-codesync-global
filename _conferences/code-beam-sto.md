@@ -2,7 +2,7 @@
 conference_brand: _conference_brands/code-bean-sto.md
 title: THE HILTERN BERLIN
 past: false
-bg_image: "/uploads/16d70351e4ef837c6fbab1a10e1576a862092484.jpeg"
+bg_image: "/uploads/conference.jpeg"
 logo_img: "/uploads/aed29706231a343796d1d53a8b64659f728e7426.png"
 conference_location: Virtual
 primary: "#B51A00"
@@ -76,6 +76,5 @@ conference_venue: false
 conference_past_conferences: false
 
 ---
-#### 
 
 ## The European Conference for Erlang and Elixir developers.
